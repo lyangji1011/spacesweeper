@@ -1,0 +1,12 @@
+Welcome to Spacesweeper.
+You are an astronaut in space. Your mission is to uncover the entire map without setting off any of the explosive planets.
+
+Left click to uncover space.
+Numbers that appear will tell your how many planets are in the surrounding eight cells surrounding each respective cell.
+Right click to mark a space as containing a planet.
+Left clicking on a spot where a planet is present will set off a chain of explosions and the world will end.
+
+Be careful!
+The future of our universe is in your hands...
+
+[Press space to accept the mission]
